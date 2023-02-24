@@ -124,6 +124,19 @@ line-height: 50px;
      font-weight: bolder; 
      font-size: large;
 }
+#IdUserProfileH{
+    font-family: 'El Messiri', sans-serif!important;
+    
+    font-weight: bolder; 
+    font-size: large;
+
+}
+#IdUserProfileH1{
+    font-family: 'El Messiri', sans-serif!important;
+    
+    font-weight: bolder; 
+    font-size: small;
+}
 
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@ slider Media @@@@@@@@@@@@@@@@@@@@@@@@ */
 @media only screen and (max-width:1400px) {
